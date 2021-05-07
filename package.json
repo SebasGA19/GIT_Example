@@ -1,0 +1,16 @@
+{
+  "name": "new-project",
+  "version": "0.1.0",
+  "description": "An example for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test",
+    "Node",
+    "Git"
+  ],
+  "author": "Sebastian",
+  "license": "ISC"
+}
